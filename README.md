@@ -6,7 +6,9 @@
 
 - 📫 How to reach me: ... email: a01083298599@gmail.com IG: angela__lee_  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelaChaejung&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelaChaejung&show_icons=true&theme=cobalt)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
 **AngelaChaejung/AngelaChaejung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
