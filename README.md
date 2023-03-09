@@ -5,6 +5,13 @@
 
 Here are some ideas to get you started:
 
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelaChaejung&show_icons=true&theme=dark)
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
