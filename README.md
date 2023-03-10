@@ -1,11 +1,12 @@
 ### 
 안녕하세요! 
 --------------
-- 🌱 I’m currently learning ...
+- 🌱 제가 공부하고있는 것은 ...
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 
-- 📫 How to reach me: ... email: a01083298599@gmail.com  
-- 🔭 My blog... https://jellajellaangela.tistory.com/ 
+- 📫 연락처는 다음과 같습니다 ... email: a01083298599@gmail.com  
+- 🔭 제 개발일지를 한번 보시겠어요?... https://jellajellaangela.tistory.com/ 
+- 👯 저를 한 마디로 표현하면 ... hard worker
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelaChaejung&show_icons=true&theme=cobalt)
 
