@@ -8,9 +8,10 @@
 - 🔭 제 개발일지를 한번 보시겠어요?... https://jellajellaangela.tistory.com/ 
 - 👯 저를 한 마디로 표현하면 ... 성장하는 개발자
 - 🤴🏻 저는 호텔관광경영학을 전공했어요
-- 🚢 항해99 11기를 수료했어요
+- 🚢 항해99 11기를 수료했어요!
+[Uploading 스크린샷 2023-03-23 오후 2.09.25.png…]()
 
-![스크린샷 2023-03-23 오후 1.48.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08bd7012-fa04-4b9b-8574-50460b77974f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_1.48.07.png)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelaChaejung&show_icons=true&theme=cobalt)
 
