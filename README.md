@@ -12,7 +12,7 @@
 
 <img width="568" alt="스크린샷 2023-03-23 오후 2 13 25" src="https://user-images.githubusercontent.com/120077192/227109588-3113167a-aad2-419e-9ce1-1688c7973046.png">
 
-![FC9E3679-5117-49DD-B4C0-6619BDCE7BDC-3208-00000395A2FEC082](https://user-images.githubusercontent.com/120077192/227109700-6587aeb7-2da6-4d5c-9f4c-ba9b880fffcb.JPG)
+<img width="250" alt="selfie" src="https://user-images.githubusercontent.com/120077192/227109700-6587aeb7-2da6-4d5c-9f4c-ba9b880fffcb.JPG">
 
 
 
